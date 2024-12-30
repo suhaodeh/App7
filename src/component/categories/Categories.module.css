@@ -1,0 +1,14 @@
+.cate{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: space-between;
+ border-bottom: 4px solid rgb(220, 173, 220);
+ ;
+}
+.cate a{
+  text-decoration: none;
+  color: black;
+  justify-content: space-between;
+  text-decoration: underline rgb(205, 187, 222);
+}

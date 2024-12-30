@@ -1,0 +1,19 @@
+.productstart{
+    background-color: rgb(204, 183, 223);
+    padding: 10px;
+border: 1px solid;
+border-radius: 20px;
+}
+.productend h3{
+    background-color:rgb(165, 129, 197) ;
+    width: 40%;
+    text-align: center;
+   border: 1px solid;
+   border-radius: 10px;
+    padding: 10px;
+   
+
+}
+.productend p{
+   font-size: larger;
+}

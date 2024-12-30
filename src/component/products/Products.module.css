@@ -1,0 +1,16 @@
+.pro{
+    display: flex;
+   flex-wrap: wrap;
+   gap: 30px;
+   margin-top: 20px;
+   justify-content: space-between;
+}
+.link{
+    text-decoration: none;
+   color: black;
+   font-weight: bolder;
+   background-color: rgb(166, 136, 194);
+   padding: 10px;
+   border: 1px solid;
+   border-radius: 10px;
+ }

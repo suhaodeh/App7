@@ -1,0 +1,25 @@
+.form{
+    width: 600px;
+    border: 2px solid;
+    gap: 30px;
+    align-items: center;
+   align-content: center;
+   margin: auto;
+   padding: 20px;
+   border-radius: 10px;
+   background-color: rgb(220, 206, 233);
+   
+
+}
+
+.input{
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 500px;
+  
+ 
+   
+   
+}
